@@ -23,7 +23,7 @@
   "dependencies": {
     "@azure/ai-projects": "1.0.0",
     "@azure/ai-agents": "1.1.0",
-    "@azure/identity": "^4.11.1",
+    "@azure/identity": "^4.13.3",
     "dotenv": "^17.2.1"
   },
   "devDependencies": {
