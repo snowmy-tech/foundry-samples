@@ -5,7 +5,7 @@ openai<3
 httpx<1
 langchain
 langchain-openai
-langgraph>=1.1.8
+langgraph>=1.2.21
 python-dotenv
 
 # debugpy enables local debugging of this agent with the Foundry Toolkit VS Code extension.
